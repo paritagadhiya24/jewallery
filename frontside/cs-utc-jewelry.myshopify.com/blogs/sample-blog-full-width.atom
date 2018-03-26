@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width.atom</id>
+  <link rel="alternate" type="text/html" href="https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width"/>
+  <link rel="self" type="application/atom+xml" href="https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width.atom"/>
+  <title>Jewelry - Shopify theme - sample blog full width</title>
+  <updated>2015-06-30T23:15:00-04:00</updated>
+  <author>
+    <name>Jewelry - Shopify theme</name>
+  </author>
+  <entry>
+    <id>https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44831683-quis-autem-vel-eum</id>
+    <published>2015-06-30T23:15:00-04:00</published>
+    <updated>2015-11-03T22:51:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44831683-quis-autem-vel-eum"/>
+    <title>Quis autem vel eum</title>
+    <author>
+      <name>Jin Alkaid</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<div style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0784/5183/files/img_blog3.jpg?12579814262686352285"></div><p><a class="read-more" href="https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44831683-quis-autem-vel-eum">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia dolore consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem</p>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo dolore voluptas nulla pariatur ut labore et dolore magnam aliquam quaerat voluptatem</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44830659-duis-sagittis-porta</id>
+    <published>2015-06-30T23:11:00-04:00</published>
+    <updated>2015-11-03T22:53:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44830659-duis-sagittis-porta"/>
+    <title>Duis sagittis porta</title>
+    <author>
+      <name>Jin Alkaid</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/0784/5183/files/img_blog2.png?7621615585687688897"><p><a class="read-more" href="https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44830659-duis-sagittis-porta">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium enim ut fringilla. Quisque eu lacus enim. Proin eleifend, mi eu aliquam euismod, arcu tortor consectetur nisi, et elementum nibh felis vel ante. Fusce nec tristique enimdoloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</span></p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium enim ut fringilla. Quisque eu lacus enim. Proin eleifend, mi eu aliquam euismod, arcu tortor consectetur nisi, et elementum nibh felis vel ante. Fusce nec tristique enimdoloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam perspiciatis unde omnis iste natus error sit voluptatem accusantium   enim ut fringilla. Quisque eu lacus enim. Proin eleifend, mi eu aliquam euismod, arcu tortor consectetur nisi, et elementum nibh felis vel ante. Fusce nec tristique enimdoloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit.voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium enim ut fringilla. Quisque eu lacus enim. Proin eleifend, mi eu aliquam euismod, arcu tortor consectetur nisi, et elementum nibh felis vel ante. Fusce nec tristique enimdoloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44829187-quis-autem-vel-eum</id>
+    <published>2015-06-30T23:04:00-04:00</published>
+    <updated>2015-11-03T22:54:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44829187-quis-autem-vel-eum"/>
+    <title>Quis autem vel eum</title>
+    <author>
+      <name>Jin Alkaid</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<div style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0784/5183/files/img_blog3.jpg?12579814262686352285"></div><p><a class="read-more" href="https://cs-utc-jewelry.myshopify.com/blogs/sample-blog-full-width/44829187-quis-autem-vel-eum">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia dolore consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem</p>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo dolore voluptas nulla pariatur ut labore et dolore magnam aliquam quaerat voluptatem</p>]]>
+    </content>
+  </entry>
+</feed>
